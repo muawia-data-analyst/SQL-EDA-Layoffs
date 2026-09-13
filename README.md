@@ -1,10 +1,10 @@
-# Exploratory Data Analysis — Layoffs Dataset (SQL)
+# Exploratory Data Analysis, Layoffs Dataset (SQL)
 
 ## Overview
 An exploratory data analysis (EDA) project on global company layoffs data (2020–2023), using the cleaned dataset from my [Data Cleaning project](https://github.com/muawia-data-analyst/SQL-Data-Cleaning-Layoffs). This project digs into the data to uncover trends across companies, industries, countries, and time.
 
 ## Objective
-To practice using SQL not just to clean data, but to actually explore it and pull out meaningful business insights — the core job of a data analyst.
+To practice using SQL not just to clean data, but to actually explore it and pull out meaningful business insights the core job of a data analyst.
 
 ## Tools & Techniques Used
 - **MySQL / MySQL Workbench**
